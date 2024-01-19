@@ -26,28 +26,28 @@ function Footer() {
                             <span className="ms-5">*T&C apply: Images shown here after differ from actual Product</span>
                         </div>
                         <div>
-                            <a target='_blank' href="https://www.facebook.com/themastersunion/"
+                            <a target='/' href="https://www.facebook.com/themastersunion/"
                                 className="me-4 text-reset"
                             >
                                 <i className="fab fa-facebook-f" />
                             </a>
-                            <a target='_blank' href="https://twitter.com/themastersunion?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" className="me-4 text-reset">
+                            <a target='' href="https://twitter.com/themastersunion?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" className="me-4 text-reset">
                                 <i className="fab fa-twitter" />
                             </a>
-                            <a target='_blank'
+                            <a target=''
                                 href="https://www.instagram.com/masters.union/?hl=en"
                                 className="me-4 text-reset"
                             >
                                 <i className="fab fa-instagram" />
                             </a>
-                            <a target='_blank'
+                            <a target=''
                                 href="https://www.linkedin.com/school/mastersunion/?originalSubdomain=in"
                                 className="me-4 text-reset"
                             >
                                 <i className="fab fa-linkedin" />
                             </a>
 
-                            <a target='_blank'
+                            <a target=''
                                 href="https://www.youtube.com/@MastersUnion"
                                 className="me-4 text-reset"
                             >
